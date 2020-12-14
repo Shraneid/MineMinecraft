@@ -3,7 +3,7 @@ C++ Minecraft clone that I built to learn the basics of how to create and use sh
 
 # Example
 
-![test](https://github.com/Shraneid/MineMinecraft/blob/main/readMe.gif)
+![exampleGIF](https://github.com/Shraneid/MineMinecraft/blob/main/README.gif)
 
 # Optimization
 
