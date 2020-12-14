@@ -21,4 +21,4 @@ Also, right now the chunks exist only in the Main.cpp, it should be refactored t
 * noclip : When the clipping of your character is not activated (essentially, when you can go through walls and through the ground)
 
 ## Author
-* **Quentin Tourette** - *Initial Work*
+**Quentin Tourette** - *Initial Work*
